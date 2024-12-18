@@ -1,0 +1,14 @@
+C:\vs code\dz_mini_projekt\bin\Debug\net8.0\dz_mini_projekt.exe
+C:\vs code\dz_mini_projekt\bin\Debug\net8.0\dz_mini_projekt.deps.json
+C:\vs code\dz_mini_projekt\bin\Debug\net8.0\dz_mini_projekt.runtimeconfig.json
+C:\vs code\dz_mini_projekt\bin\Debug\net8.0\dz_mini_projekt.dll
+C:\vs code\dz_mini_projekt\bin\Debug\net8.0\dz_mini_projekt.pdb
+C:\vs code\dz_mini_projekt\obj\Debug\net8.0\dz_mini_projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs code\dz_mini_projekt\obj\Debug\net8.0\dz_mini_projekt.AssemblyInfoInputs.cache
+C:\vs code\dz_mini_projekt\obj\Debug\net8.0\dz_mini_projekt.AssemblyInfo.cs
+C:\vs code\dz_mini_projekt\obj\Debug\net8.0\dz_mini_projekt.csproj.CoreCompileInputs.cache
+C:\vs code\dz_mini_projekt\obj\Debug\net8.0\dz_mini_projekt.dll
+C:\vs code\dz_mini_projekt\obj\Debug\net8.0\refint\dz_mini_projekt.dll
+C:\vs code\dz_mini_projekt\obj\Debug\net8.0\dz_mini_projekt.pdb
+C:\vs code\dz_mini_projekt\obj\Debug\net8.0\dz_mini_projekt.genruntimeconfig.cache
+C:\vs code\dz_mini_projekt\obj\Debug\net8.0\ref\dz_mini_projekt.dll

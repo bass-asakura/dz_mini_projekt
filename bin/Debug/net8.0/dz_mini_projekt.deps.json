@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "dz_mini_projekt/1.0.0": {
+        "runtime": {
+          "dz_mini_projekt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dz_mini_projekt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
